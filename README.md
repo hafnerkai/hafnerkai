@@ -1,48 +1,50 @@
 <h1 align="center">hey there 👋 I'm Kai Hafner</h1>
 
-###
+<h3 align="center">Software Developer | PHP & Laravel Enthusiast </h3>
 
-<h6 align="center">I am currently retraining as an IT specialist for application development in a company in Upper Franconia. 
-(If you have any questions about the company, please contact me personally)</h6>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="center">
+  <strong>DE:</strong> Fachinformatiker für Anwendungsentwicklung.<br>
+  <strong>EN:</strong> IT Specialist for Application Development.
+</p>
 
 ###
 
-<h6 align="left">🔭 I’m currently working on Several projects for my companies as well as projects privately and at the vocational school for my retraining.<br><br>🌱 I’m currently learning At the moment I'm doing a lot of retraining as an application developer.<br><br>📫 How to reach me [Best via Github]</h6>
+<h3 align="left">👩‍💻 Über mich / About Me</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🇩🇪 Deutsch</strong>
+      <ul>
+        <li>💡 <strong>Highlight:</strong> Migration eines B2B-Shops von Solr auf <strong>Elasticsearch</strong> (saubere MVC-Struktur).</li>
+        <li>🚀 <strong>Projekt:</strong> Ich entwickle eine Laravel-Plattform für IT-Nachwuchs & Umschüler.</li>
+        <li>🌲 <strong>Ausgleich:</strong> Naturzeit mit meiner Familie.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🇺🇸 English</strong>
+      <ul>
+        <li>💡 <strong>Key Project:</strong> Migrated a B2B webshop from Solr to <strong>Elasticsearch</strong> (clean MVC architecture).</li>
+        <li>🚀 <strong>Project:</strong> Building a Laravel platform to mentor apprentices and career changers.</li>
+        <li>🌲 <strong>Balance:</strong> Spending time in nature with my family.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
-
-###
-
-<h6 align="left">I work with or learn the following programs, tools, frameworks and programming languages during my retraining as an IT specialist for application development</h6>
-
-###
-
-<h2 align="left"></h2>
-
-###
+<h2 align="left">🛠 Tech Stack & Tools</h2>
 
 <h4 align="left">Programming Languages:</h4>
-
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -53,72 +55,11 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<h4 align="left">Programs:</h4>
-
-###
-
+<h4 align="left">Frameworks & CMS:</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-</div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<h4 align="left">Tools</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<h4 align="left">Database Management:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<h4 align="left">Frameworks</h4>
-
-###
-
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-line-wordmark.svg" height="40" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
@@ -127,38 +68,46 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<h4 align="left">Others:</h4>
-
-###
-
+<h4 align="left">Data & Search:</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+</div>
+
+###
+
+<h4 align="left">Infrastructure & Tools:</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<h3 align="left">📈 Aktuelle Projekte / Current Projects</h3>
+
+- **Apprentice Prep Platform:**
+    - (DE) Eine Laravel-Plattform inkl. CI/CD Pipelines zur Vorbereitung von IT-Auszubildenden.
+    - (EN) A Laravel platform including CI/CD pipelines to mentor and prepare IT apprentices.
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hafnerkai/count.svg?"  />
-</div>
+<h3 align="left">📫 Kontakt / Reach me</h3>
+
+- 🌍 Region: North Bavaria / Nordbayern, Germany
 
 ###
+
+<p align="center">
+  <i>"Fachkräfte von morgen zu fördern ist nicht nur ein Ziel, sondern eine Verantwortung." / "Empowering the next generation is a responsibility."</i>
+</p>
